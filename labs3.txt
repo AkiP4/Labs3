@@ -7,3 +7,5 @@ This line was added in Github
 
 Another line added in github
 
+Line added in gitbash
+
